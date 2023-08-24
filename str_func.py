@@ -4,7 +4,7 @@ def func(value):
 
 
 def title_func(value):
-    """The function returns a string with capitalized words"""
+    """The function returns a string with capitalized all words"""
     temp_list = value.split()
     total_string = ''
     for item in temp_list:
